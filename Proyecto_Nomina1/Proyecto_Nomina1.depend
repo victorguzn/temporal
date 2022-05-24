@@ -316,7 +316,7 @@
 1652908963 c:\users\guvir\proyectonomina\proyecto_nomina1\include\empleados.h
 	<iostream>
 
-1653338885 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\generacionnomina.cpp
+1653369218 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\generacionnomina.cpp
 	<iostream>
 	<fstream>
 	<stdlib.h>
@@ -327,7 +327,7 @@
 	"empleados.h"
 	"menus.h"
 
-1653334394 c:\users\guvir\proyectonomina\proyecto_nomina1\include\generacionnomina.h
+1653368674 c:\users\guvir\proyectonomina\proyecto_nomina1\include\generacionnomina.h
 	<iostream>
 
 1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\impuestos.cpp
@@ -361,7 +361,7 @@
 	<iomanip>
 	<time.h>
 
-1653346895 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\menus.cpp
+1653365006 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\menus.cpp
 	"menus.h"
 	"conceptos.h"
 	"impuestos.h"
@@ -375,17 +375,17 @@
 	<iomanip>
 	<cstdlib>
 
-1653314555 c:\users\guvir\proyectonomina\proyecto_nomina1\include\puestos.h
+1653364333 c:\users\guvir\proyectonomina\proyecto_nomina1\include\puestos.h
 	<iostream>
+	"menus.h"
 
-1653353253 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\puestos.cpp
+1653365083 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\puestos.cpp
 	<iostream>
-	"empleados.h"
+	"puestos.h"
 	<fstream>
 	<stdlib.h>
 	<cstdlib>
 	<conio.h>
 	<iomanip>
-	"puestos.h"
 	"menus.h"
 
