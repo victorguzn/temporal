@@ -1,0 +1,391 @@
+# depslib dependency file v1.0
+1652842498 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1652842498 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\ingreso.h
+
+1652847855 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\menus.cpp
+	"menus.h"
+	"conceptos.h"
+	"impuestos.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652844211 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\menus.h
+
+1652844087 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652845042 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\conceptos.cpp
+	"conceptos.h"
+	"menus.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652844901 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\conceptos.h
+
+1652846408 source:c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652847445 c:\users\vjere\proyectos\pruebaspf\proyecto_nomina1\include\impuestos.h
+	<iostream>
+
+1652848803 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652848803 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\ingreso.h
+
+1652848803 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\menus.h
+
+1652848803 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\conceptos.cpp
+	"conceptos.h"
+	"menus.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652848803 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\conceptos.h
+
+1652848803 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652848803 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\impuestos.h
+	<iostream>
+
+1652848803 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1652904479 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\menus.cpp
+	"menus.h"
+	"conceptos.h"
+	"impuestos.h"
+	"informe.h"
+	"empleados.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652904479 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\informe.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"informe.h"
+	"menus.h"
+
+1652849324 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\informe.h
+
+1652904479 source:c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\src\empleados.cpp
+	<iostream>
+	"empleados.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652902379 c:\users\bryan\clonacion\prub\prueba\prueba\proyecto_nomina1\include\empleados.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652908963 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\ingreso.h
+
+1652911451 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\menus.h
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\conceptos.cpp
+	"conceptos.h"
+	"menus.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652908963 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\conceptos.h
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\empleados.cpp
+	<iostream>
+	"empleados.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1652908963 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\empleados.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652908963 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\impuestos.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\informe.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"informe.h"
+	"menus.h"
+
+1652908963 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\informe.h
+
+1652908963 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+
+1652927910 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\menus.cpp
+	"menus.h"
+	"conceptos.h"
+	"impuestos.h"
+	"informe.h"
+	"empleados.h"
+	"bitacora.h"
+	"puestos.h"
+	"generacionnomina.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1652914091 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\bitacora.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"bitacora.h"
+	"menus.h"
+
+1652912778 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\bitacora.h
+
+1652919616 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\puestos.h
+	<iostream>
+
+1652919822 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\puestos.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"puestos.h"
+	"menus.h"
+
+1652927992 source:c:\users\guvir\proyectofp1e6\proyecto_nomina1\src\generacionnomina.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"generacionnomina.h"
+	"menus.h"
+
+1652928173 c:\users\guvir\proyectofp1e6\proyecto_nomina1\include\generacionnomina.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\main.cpp
+	<iostream>
+	<conio.h>
+	"ingreso.h"
+	"menus.h"
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1653345889 c:\users\guvir\proyectonomina\proyecto_nomina1\include\ingreso.h
+
+1653344057 c:\users\guvir\proyectonomina\proyecto_nomina1\include\menus.h
+
+1653347096 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\bitacora.cpp
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"bitacora.h"
+	"informe.h"
+	"empleados.h"
+	"puestos.h"
+	"generacionnomina.h"
+	"impuestos.h"
+	"ingreso.h"
+	"menus.h"
+
+1652912778 c:\users\guvir\proyectonomina\proyecto_nomina1\include\bitacora.h
+
+1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\conceptos.cpp
+	"conceptos.h"
+	"menus.h"
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1652908963 c:\users\guvir\proyectonomina\proyecto_nomina1\include\conceptos.h
+
+1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\empleados.cpp
+	<iostream>
+	"empleados.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"menus.h"
+
+1652908963 c:\users\guvir\proyectonomina\proyecto_nomina1\include\empleados.h
+	<iostream>
+
+1653338885 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\generacionnomina.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"generacionnomina.h"
+	"empleados.h"
+	"menus.h"
+
+1653334394 c:\users\guvir\proyectonomina\proyecto_nomina1\include\generacionnomina.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\impuestos.cpp
+	<iostream>
+	<cstring>
+	"impuestos.h"
+
+1652908963 c:\users\guvir\proyectonomina\proyecto_nomina1\include\impuestos.h
+	<iostream>
+
+1652908963 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\informe.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"informe.h"
+	"menus.h"
+
+1652908963 c:\users\guvir\proyectonomina\proyecto_nomina1\include\informe.h
+
+1653347096 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\ingreso.cpp
+	"ingreso.h"
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+
+1653346895 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\menus.cpp
+	"menus.h"
+	"conceptos.h"
+	"impuestos.h"
+	"informe.h"
+	"empleados.h"
+	"bitacora.h"
+	"puestos.h"
+	"generacionnomina.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1653314555 c:\users\guvir\proyectonomina\proyecto_nomina1\include\puestos.h
+	<iostream>
+
+1653353253 source:c:\users\guvir\proyectonomina\proyecto_nomina1\src\puestos.cpp
+	<iostream>
+	"empleados.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"puestos.h"
+	"menus.h"
+

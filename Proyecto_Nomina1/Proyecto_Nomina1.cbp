@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Proyecto_Nomina1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Proyecto_Nomina1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Proyecto_Nomina1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/bitacora.h" />
+		<Unit filename="include/conceptos.h" />
+		<Unit filename="include/empleados.h" />
+		<Unit filename="include/generacionnomina.h" />
+		<Unit filename="include/impuestos.h" />
+		<Unit filename="include/informe.h" />
+		<Unit filename="include/ingreso.h" />
+		<Unit filename="include/menus.h" />
+		<Unit filename="include/puestos.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/bitacora.cpp" />
+		<Unit filename="src/conceptos.cpp" />
+		<Unit filename="src/empleados.cpp" />
+		<Unit filename="src/generacionnomina.cpp" />
+		<Unit filename="src/impuestos.cpp" />
+		<Unit filename="src/informe.cpp" />
+		<Unit filename="src/ingreso.cpp" />
+		<Unit filename="src/menus.cpp" />
+		<Unit filename="src/puestos.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
